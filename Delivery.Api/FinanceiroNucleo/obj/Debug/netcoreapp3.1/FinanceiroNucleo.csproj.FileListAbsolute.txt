@@ -1,0 +1,12 @@
+E:\WorkThalys\Financeiro\Delivery.Api\FinanceiroNucleo\bin\Debug\netcoreapp3.1\FinanceiroNucleo.deps.json
+E:\WorkThalys\Financeiro\Delivery.Api\FinanceiroNucleo\bin\Debug\netcoreapp3.1\FinanceiroNucleo.dll
+E:\WorkThalys\Financeiro\Delivery.Api\FinanceiroNucleo\obj\Debug\netcoreapp3.1\FinanceiroNucleo.AssemblyInfoInputs.cache
+E:\WorkThalys\Financeiro\Delivery.Api\FinanceiroNucleo\obj\Debug\netcoreapp3.1\FinanceiroNucleo.AssemblyInfo.cs
+E:\WorkThalys\Financeiro\Delivery.Api\FinanceiroNucleo\bin\Debug\netcoreapp3.1\FinanceiroNucleo.runtimeconfig.json
+E:\WorkThalys\Financeiro\Delivery.Api\FinanceiroNucleo\bin\Debug\netcoreapp3.1\FinanceiroNucleo.runtimeconfig.dev.json
+E:\WorkThalys\Financeiro\Delivery.Api\FinanceiroNucleo\bin\Debug\netcoreapp3.1\FinanceiroNucleo.pdb
+E:\WorkThalys\Financeiro\Delivery.Api\FinanceiroNucleo\obj\Debug\netcoreapp3.1\FinanceiroNucleo.dll
+E:\WorkThalys\Financeiro\Delivery.Api\FinanceiroNucleo\obj\Debug\netcoreapp3.1\FinanceiroNucleo.pdb
+E:\WorkThalys\Financeiro\Delivery.Api\FinanceiroNucleo\obj\Debug\netcoreapp3.1\FinanceiroNucleo.genruntimeconfig.cache
+E:\WorkThalys\Financeiro\Delivery.Api\FinanceiroNucleo\obj\Debug\netcoreapp3.1\FinanceiroNucleo.csproj.CoreCompileInputs.cache
+E:\WorkThalys\Financeiro\Delivery.Api\FinanceiroNucleo\obj\Debug\netcoreapp3.1\FinanceiroNucleo.csprojAssemblyReference.cache

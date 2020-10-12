@@ -1,0 +1,21 @@
+<div class="row">
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-body">
+        <table #tabela class="table table-sm table-bordered table-hover">
+          <thead class="text-secondary">
+            <tr>
+              <th *ngFor="let cell of colunas">{{ cell }}</th>
+              <!-- <th> Ações </th> -->
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="cursor:pointer;" (click)="aoClicar($event,row,tabela,i)" *ngFor="let row of linhas; index as i">
+            <td  *ngFor="let coluna of row; index as j"> {{ coluna  }} </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

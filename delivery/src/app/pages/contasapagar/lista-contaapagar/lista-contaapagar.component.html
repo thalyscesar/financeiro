@@ -1,0 +1,12 @@
+<div class="row pb-3">
+  <div class="col-md-12">
+    <div class="pt-3">
+      <button class=" btn btn-success ml-2" (click)="novo($event)">Novo</button>
+      <button class="btn btn-primary ml-2" (click)="atualizar($event)">Editar</button>
+      <button class="btn btn-danger ml-2" (click)="excluir($event)">Excluir</button>
+    </div>
+  </div>
+</div>
+
+<app-tabela-padrao  [colunas]="colunas" [linhas]="linhas" (aoSelecionarId)=aoSelecionarId($event)>
+</app-tabela-padrao>
